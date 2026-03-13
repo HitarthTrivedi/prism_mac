@@ -1,0 +1,4 @@
+undetected_chromedriver==3.5.5
+PyDrive2==1.21.3
+Selenium==4.49.0
+setuptools
